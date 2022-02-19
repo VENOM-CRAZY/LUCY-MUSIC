@@ -23,7 +23,7 @@ psutil
 pykeyboard
 pyromod
 requests
-speedtest-cli
+git+https://github.com/VENOMxCRAZY9/venomspeedtest@master
 uvloop
 git+https://github.com/VENOMxCRAZY9/opytdl@master
 telegraph
